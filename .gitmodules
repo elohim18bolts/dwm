@@ -1,0 +1,15 @@
+[submodule "dwm"]
+	path = dwm
+	url = ./dwm
+[submodule "dmenu"]
+	path = dmenu
+	url = ./dmenu
+[submodule "st"]
+	path = st
+	url = ./st
+[submodule "slock"]
+	path = slock
+	url = ./slock
+[submodule "dwmstatus"]
+	path = dwmstatus
+	url = ./dwmstatus
